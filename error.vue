@@ -7,7 +7,7 @@ const props = defineProps({
 </script>
 
 <template>
-    <div>
+    <div class="flex justify-center items-center">
         <!-- <h1>{{ error.statusCode }}</h1> -->
         <NuxtLink to="/">Go back home</NuxtLink>
     </div>
